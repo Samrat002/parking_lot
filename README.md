@@ -1,4 +1,7 @@
-##Assumptions:- 
+Problem Statement :- 
+
+
+Assumptions:- 
 
 1) Assuming only one floor of the parking.
 2) Only one Gate is Present to enter the parking lot and leave the parking lot.
@@ -8,6 +11,6 @@
 6) There is No Time limit on parking nor Pricing is added.
 
 
-###Steps to run 
+Steps to run 
 1) UnZip the parking_lot.zip
 2) run  ```./bin/run_functional_tests ```
